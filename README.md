@@ -20,4 +20,4 @@ python fflag.py
 ```
 
 If you have any questions or need help, ask in the post in utilities in the RGC discord server (https://discord.gg/ASBxMYeBNn).
-We will continue to update this until we think it doesn't require any more updates. If you have any feature requests you can also post those in the utilities post in the RGC discord server.
+If you have any feature requests you can also post those in the utilities post in the RGC discord server.
